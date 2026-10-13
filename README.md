@@ -10,7 +10,7 @@
   <img src="assets/01-product-ad-ceramic-mug-thumb.jpg" width="820" alt="Vidu Q3 (viduq3) output preview generated through APIMart">
 </p>
 
-> per generated second — one OpenAI-compatible endpoint at `https://api.apimart.ai/v1`, no monthly plan required. *(observed 2026-10-12)*
+> **from $0.056 per second** at 540P (720P $0.12 · 1080P $0.128) — one OpenAI-compatible endpoint at `https://api.apimart.ai/v1`, no monthly plan required. *(observed 2026-10-12)*
 
 **[Get an API key](https://go.apimart.ai/k-ced1f2)** · **[Live pricing](https://go.apimart.ai/k-797014)** · **[Model page](https://go.apimart.ai/k-53bf8e)** · [⚡ 60-second quickstart](#quickstart)
 
